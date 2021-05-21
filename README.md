@@ -1,2 +1,2 @@
 # Web-Dev
-Learning Web Project.
+Learning Bootsrap and Flask with this project.
